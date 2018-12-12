@@ -14,6 +14,7 @@ a{
 .bu{
 	border-radius: 10px;
 	background: #177EF4;
+	color: white;
 	border: 3px solid #1C6FC1;
 
 }
@@ -31,7 +32,6 @@ a{
 
 .linha{
 	background-color: #FFFAFA;
-	height: 10px;
 	border: 1px solid green;
 	height: 200px;
 }
@@ -47,13 +47,21 @@ a{
 }
 
 .area{
-	border-top:10px solid grey;
+	border-top: 10px solid grey;
 	margin: 0 auto;
-	width: 100%
-
+	width: 90%;
+	padding-bottom: 30px;
 }
 .t{
 	height: 250px;
 	filter: saturate(135%);
+
+}
+.rodape{
+	background: #177EF4;
+	color: white;
+	font-weight: bold;
+	padding-top: 20px;
+	padding-bottom: 20px;
 
 }
