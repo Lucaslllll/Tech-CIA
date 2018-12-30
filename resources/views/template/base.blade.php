@@ -6,7 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="assets/bootstrap/css/bootstrap.css"/>
 	<link rel="stylesheet" type="text/css" href="assets/bootstrap/js/bootstrap.js" />
 	<link rel="stylesheet" type="text/css" href="assets/css/style-menu.css">
-	<title>Tech & CIA</title>
+	<title>Tech & Phone</title>
 </head>
 <body>
 

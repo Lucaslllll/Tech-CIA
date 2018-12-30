@@ -2,7 +2,7 @@
 
 @section('adicao')
 <div class="jumbotron centro col-12">
-	<h1 class="display-4">Bem Vindo ao Tech & CIA</h1>
+	<h1 class="display-4">Bem Vindo ao Tech & Phone</h1>
 	<p class="lead">Este site tem uma grande variedade de peça para celulares.</p>
 	<hr class="my-4">
 	<p>Além de outros serviços.</p>
