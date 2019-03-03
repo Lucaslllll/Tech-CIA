@@ -11,6 +11,14 @@
 |
 */
 
-Route::get('/', function () {
+Route::get('/home', function () {
     return view('index');
+});
+
+Route::get('/individual', function () {
+    return view('individual');
+});
+
+Route::get('/faca_seu_pedido', function () {
+    return view('faca_seu_pedido');
 });

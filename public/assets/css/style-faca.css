@@ -1,0 +1,23 @@
+.tamanho{
+	width: 80%;
+	height: 600px;
+	background-color: transparent;
+	border: 2px solid white;
+	border-radius: 8px;
+	color: white;
+	margin: 0 auto;
+
+
+}
+
+.center{
+	text-align: center;
+	margin: 0 auto;
+}
+
+.Cbutton{
+	border-radius: 8px;
+	width: 100px;
+	background-color: black;
+	color: white;
+}

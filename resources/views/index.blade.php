@@ -2,7 +2,7 @@
 
 @section('adicao')
 <div class="jumbotron centro col-12">
-	<h1 class="display-4">Bem Vindo ao Tech & Phone</h1>
+	<h1 class="display-4">Bem Vindo ao TecHay</h1>
 	<p class="lead">Este site tem uma grande variedade de peça para celulares.</p>
 	<hr class="my-4">
 	<p>Além de outros serviços.</p>
@@ -13,6 +13,7 @@
 
 
 @section('conteudo')
+
 <div class="area col-12">
 	<div class="row">
 		<div class="card col-12 col-sm-12 col-md-6 col-lg-4 col-xl-3">
@@ -20,7 +21,7 @@
 			<div class="card-body">
 				<h5 class="card-title">Produto X</h5>
 				<p class="card-text">Estiloso, confortável e com tecnologia avançada.</p>
-				<a href="#" class="btn btn-primary">Mais informações</a>
+				<a href="individual" class="btn btn-primary">Mais informações</a>
 			</div>
 		</div>			
 		<div class="card col-12 col-sm-12 col-md-6 col-lg-4 col-xl-3">

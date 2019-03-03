@@ -1,0 +1,20 @@
+
+.texto{
+	text-align: center;
+	font-weight: bold;
+	border-left: 1px solid white;
+	color: white;
+
+}
+
+.conteudo{
+	border: 4px groove white;
+	opacity: 0.9;
+	background-color: #2874DF;
+	height: 500px
+}
+
+img{
+	width: 300px;
+	height: 300px;
+}

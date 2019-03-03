@@ -65,3 +65,32 @@ a{
 	padding-bottom: 20px;
 
 }
+
+.ts{
+	transition: 0.5s;
+}
+
+
+/*  -------------------         Colocando Scroll Custom         ----------------------------*/
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #177EF4; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+/*::-webkit-scrollbar-thumb:hover {
+  background: black; 
+}*/
